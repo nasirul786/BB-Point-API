@@ -30,4 +30,4 @@ To start using the API, authenticate your requests using your API key. Each requ
 
 For detailed request and response formats, refer to the specific API sections.
 
-**Authorization**: userId and pin, your oin works as your api key.
+**Authorization**: userId and pin, your pin works as your api key.

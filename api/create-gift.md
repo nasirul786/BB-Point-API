@@ -43,12 +43,13 @@ GET https://api.bots.business/v2/bots/1914078/web-app/create-gift?userId=1234567
   "status": "success",
   "msg": "🎁 Gift successfully created!",
   "giftDetails": {
-    "giftCode": "IPAOJLO9",
+    "giftCode": "giftOB7NR8D5",
     "title": "Birthday Gift",
     "description": "Happy Birthday! 🎉",
     "totalUsers": 5,
-    "prizePerUser": 1,
-    "totalAmount": 5,
+    "claimLink": "https://t.me/bbp_app_bot?start=giftgiftOB7NR8D5",
+    "prizePerUser": 20,
+    "totalAmount": 100,
     "createdBy": "7378059553",
     "password": "No password set"
   }
@@ -64,6 +65,7 @@ GET https://api.bots.business/v2/bots/1914078/web-app/create-gift?userId=1234567
 | `giftDetails` | Object | Contains details of the created gift. |
 | `giftCode`   | String | Unique code for the gift. |
 | `title`      | String | Gift title. |
+| `claimLink` | sring | Gift deatils link, redirects users to the bot and fetch gift details |
 | `description` | String | Gift note/message. |
 | `totalUsers` | Number | Total number of users who can claim the gift. |
 | `prizePerUser` | Number | Amount each user will receive. |

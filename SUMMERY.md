@@ -3,7 +3,7 @@
 ## Welcome  
 - [Getting Started](README.md)  
 
-## API Documentation  
+**API Documentation** 
 - [Account](api/account.md)  
 - [Claim Gift](api/claim-gift.md)  
 - [Create Gift](api/create-gift.md)  

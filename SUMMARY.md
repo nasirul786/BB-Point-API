@@ -5,6 +5,7 @@
 ## API Documentation
 
 * [Account](api/account.md)
+* [pay user or invoice](api/send-payment.md)
 * [Claim Gift](api/claim-gift.md)
 * [Create Gift](api/create-gift.md)
 * [Create Invoice](api/create-invoice.md)

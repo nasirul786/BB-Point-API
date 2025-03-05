@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## API Documentation
-
+*[API Documentation](api.account)
 * [Account](api/account.md)
 * [pay user or invoice](api/send-payment.md)
+* [Purchase BB Point](buy-bbp.md)
 * [Claim Gift](api/claim-gift.md)
 * [Create Gift](api/create-gift.md)
 * [Create Invoice](api/create-invoice.md)

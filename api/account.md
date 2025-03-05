@@ -18,7 +18,7 @@ GET https://api.bots.business/v2/bots/1914078/web-app/account?user_id=7378059553
 
 ---
 
-## Response
+## Response Success
 
 ```json
 {
@@ -66,6 +66,14 @@ GET https://api.bots.business/v2/bots/1914078/web-app/account?user_id=7378059553
       "direction": "credit"
     }
   ]
+}
+```
+
+## Response Error
+```json
+{
+  "status": "error",
+  "msg": "The 'user_id' parameter is required."
 }
 ```
 

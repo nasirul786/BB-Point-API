@@ -1,3 +1,6 @@
+>[!IMPORTANT]
+> Will not work anymore since webApp is disabled by bb. so use webhook system instead if possible. i am taking break from bots business.
+
 # BB Point WebApp API Documentation
 
 Welcome to the BB Point WebApp API documentation. This API allows users to interact with the BB Point ecosystem by sending and requesting payments, managing invoices, creating and claiming gifts, purchasing BB Points, and retrieving or updating user account settings.
